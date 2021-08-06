@@ -362,6 +362,11 @@ nav .logo a:hover {
     overflow: hidden;
 }
 
+#slide-frame img {
+    height: 100%;
+    width: 100%;
+}
+
 #slides {
     height: 375px;
     overflow: hidden;
